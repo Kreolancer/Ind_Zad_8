@@ -1,0 +1,46 @@
+0010011
+John Doe
+21.10.2022
+14
+Author One
+Title 1
+2020
+Publisher 1
+10.99
+0010012
+John Goe
+23.10.2022
+21
+Author Two
+Title 2
+2015
+Publisher 2
+15.99
+0010013
+John Boe
+24.10.2022
+26
+Author Three
+Title 3
+2011
+Publisher 3
+9.99
+0010014
+John Roe
+24.05.2022
+36
+Author Four
+Title 4
+2007
+Publisher 4
+4.45
+0010015
+John Moe
+14.10.2021
+90
+Author Five
+Title 5
+1995
+Publisher 5
+29.99
+//////
